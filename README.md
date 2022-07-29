@@ -42,6 +42,4 @@ Next, Recommendations include looking over the data further and seeing if ordina
 
 ## Limitations & Next Steps
 
-The biggest limitation of this project would be not having a dataset expert to consult regarding the project about the outlet types and sizes.
-
-Once a data expert has been consulted, the next steps would be to re-run the model with the adjusts made for features that are ordinal and see if that improves performance.
+The biggest limitation of this project would be not having a dataset expert to consult regarding the project about the outlet types and sizes.Once a data expert has been consulted, the next steps would be to re-run the model with the adjustments made for features that are ordinal and see if that improves performance.
