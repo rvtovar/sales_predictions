@@ -38,7 +38,7 @@ The final model recommended for this project is a random forest. It preformed wi
 
 ## Recommendations
 
-Next Recommendations include looking over the data further and seeing if Oridinal Encoding would of been a better solution when it comes to Outlet Type and Outlet Size. The reasoning for this is becauase the size is in a ranking of sorts of Small, Medium, and Large. This gives the impression that the outlet type may also be in some form of ranking with Grocery, Type 1, Type 2 and Type 3. This would require talking to someone with more knowledge of the dataset and finding out what the key differences about the outlet types are and if they could be ordinal encoded.
+Next, Recommendations include looking over the data further and seeing if Ordinal Encoding would of been a better solution when it comes to Outlet Type and Outlet Size. The reasoning for this suggestion is becauase the size can be seen as being ranked. This also gives the impression that the outlet type may also be in some form of ranking with Grocery, Type 1, Type 2 and Type 3. This would require talking to someone with more knowledge of the dataset and finding out what the key differences about the outlet types are and if they could be ordinal encoded.
 
 ## Limitations & Next Steps
 
