@@ -1,6 +1,6 @@
 # Item Outlet Sales Predictions
 
-## An analysis of sales predictions based on different features related to item features
+## An analysis of Item Outlet Sales, based upon variety of Item Features
 
 ### Rose Tovar
 
