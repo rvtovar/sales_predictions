@@ -30,7 +30,7 @@ Missing Values in numerical columns were imputed with the mean of the column. Th
 
 ![Item Outlet Sales](item_outlet.png)
 
-> This plot graphed Item MRP vs. Item Outlet Sales hued with the market type. Upon inspection we can see there is 4 linear plots stacked on top of each other based on the outlet type. When all plotted together it creates a triangle shape. As the MRP goes up the range of outlet sales increases, but the range is dependent on what type of outet we are dealing with.
+> This plot graphed Item MRP vs. Item Outlet Sales hued with the market type. Upon inspection we can see there is 4 linear plots stacked on top of each other based on the outlet type. When all plotted together it creates a triangle shape. As the MRP goes up the range of item outlet sales increases, but the range is dependent on what type of outet we are dealing with.
 
 ## Model
 
