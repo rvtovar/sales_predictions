@@ -28,7 +28,7 @@ Missing Values in numerical columns were imputed with the mean so that the colum
 
 ## Model
 
-The final model i recommend for this project is a random forest. It preformed with a 61% Training R2 and 60% testing R2. This implies that this model does have some high bias and is struggling with fit with the data. The RMSE preformed within a range of a 1000$ error for item outlet sales. Which does not work that well with some of the data in the set. As some item outlet sales were less than a 1000$.
+The final model i recommend for this project is a random forest. It preformed with a 61% Training R2 and 60% testing R2. This implies that this model does have some high bias and is struggling to fit the data. The RMSE preformed within a range of a 1000$ error for item outlet sales. Which does not work that well with some of the data in the set. As some item outlet sales were less than a 1000$.
 
 ## Recommendations
 
