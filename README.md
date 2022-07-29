@@ -12,6 +12,8 @@ This project took a look at Item Outlet Sales and what features could predict th
 
 The data set that was used for this project is a list of items. Each row includes information regarding the item wieght, visibility, MRP, along with information regarding the Outlet that sells the item in question.
 
+![Data](data.png)
+
 ### Methods
 
 Missing Values in numerical columns were imputed with the mean of the column. This was chosen so the mean could be maintained for the column after we imputed missing values. This same philosophy was applied with the nominal columns in how most frequent was chosen in order to maintain the mode.
@@ -28,7 +30,7 @@ Missing Values in numerical columns were imputed with the mean of the column. Th
 
 ![Item Outlet Sales](item_outlet.png)
 
-> This plot graphed Item MRP vs. Item Outlet Sales hued with the market type. Upon inspection we can see there is 4 linear plots stacked on top of each other based on the outlet type. When all plotted together it creates a triangle shape As the MRP goes up the range of outlet sales increases. But the range is dependent on what type of outet we are dealing with.
+> This plot graphed Item MRP vs. Item Outlet Sales hued with the market type. Upon inspection we can see there is 4 linear plots stacked on top of each other based on the outlet type. When all plotted together it creates a triangle shape. As the MRP goes up the range of outlet sales increases, but the range is dependent on what type of outet we are dealing with.
 
 ## Model
 
